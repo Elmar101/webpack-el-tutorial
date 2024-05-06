@@ -1,0 +1,1 @@
+export const fooName = "My name is Foo";
